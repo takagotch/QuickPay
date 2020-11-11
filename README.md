@@ -1,4 +1,4 @@
-### o
+### QuickPay (v10 Platform)
 ---
 
 
